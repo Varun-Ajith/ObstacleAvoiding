@@ -31,7 +31,7 @@ The `main.py` file initializes the simulation environment, creates a robot insta
 
 ## Contributors
 
-- [Varun Ajith]
+- Varun Ajith
 
 Feel free to contribute by forking this repository, making changes, and submitting a pull request.
 
