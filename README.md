@@ -1,7 +1,7 @@
 # Obstacle_Avoidance
 
 
-![Simulation](obstace _avoidance.png)
+![Simulation Screenshot](obstacle_avoidance.png)
 
 
 This repository contains Python code for simulating a robot that performs obstacle avoidance using ultrasonic sensors.
